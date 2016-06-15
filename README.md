@@ -1,4 +1,4 @@
-# dl_tutorials
+# Deep learning tutorials
 
  Deep learning tutorials (2nd ed.)
 
