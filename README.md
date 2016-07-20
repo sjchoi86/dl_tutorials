@@ -45,3 +45,10 @@
 4. [Image captioning: Show and Tell + Show, attend and tell](https://github.com/sjchoi86/dl_tutorials/blob/master/presentations/Week5-2b%20Image%20Captioning.pptx)
 5. [char-rnn + how can we use Hangul?](https://github.com/sjchoi86/dl_tutorials/blob/master/presentations/Week5-2c%20Hangul-RNN.pptx)
 
+## Week6 - Deep learning is so FUN!
+1. [Residual network and some analysis](https://github.com/sjchoi86/dl_tutorials/blob/master/presentations/Week6-1a%20Residual%20Networks%20and%20Analysis.pptx)
+2. [Neural Style: Texture synsthesis+Inverting CNN](https://github.com/sjchoi86/dl_tutorials/blob/master/presentations/Week6-1b%20Neural%20Style.pptx)
+3. [Let's implement neural style](https://github.com/sjchoi86/dl_tutorials/blob/master/presentations/Week6-1c%20Neural%20Style%20Code.pptx)
+4. [Bayesian optimization](https://github.com/sjchoi86/dl_tutorials/blob/master/presentations/Week6-2a%20Bayesian%20Optimization.pptx)
+5. [Adversaral attack?](https://github.com/sjchoi86/dl_tutorials/blob/master/presentations/Week6-2b%20Adversarial%20Attack.pptx)
+6. [Generative adversarial network](https://github.com/sjchoi86/dl_tutorials/blob/master/presentations/Week6-2c%20Generative%20Adversarial%20Network.pptx)
