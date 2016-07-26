@@ -34,7 +34,7 @@
 2. [Other detections (YOLO, AttentionNet)](https://github.com/sjchoi86/dl_tutorials/blob/master/presentations/Week4-1b%20Other%20dections%20(YOLO%2C%20AttentionNet).pptx)
 3. [Let's use TensorBoards](https://github.com/sjchoi86/dl_tutorials/blob/master/presentations/Week4-1c%20TensorBoard.pptx)
 4. [RNN from Colah's blog](https://github.com/sjchoi86/dl_tutorials/blob/master/presentations/Week4-2a%20RNN%20(colah%20blog).pptx)
-5. [Visual QnQ: DPPnet + MCBP!](https://github.com/sjchoi86/dl_tutorials/blob/master/presentations/Week4-2b%20Visual%20QnA.pptx)
+5. [Visual QnA: DPPnet + MCBP!](https://github.com/sjchoi86/dl_tutorials/blob/master/presentations/Week4-2b%20Visual%20QnA.pptx)
 6. [Super resolution](https://github.com/sjchoi86/dl_tutorials/blob/master/presentations/Week4-2c%20Super%20resolution.pptx)
 7. [Deep reinforcement learning](https://github.com/sjchoi86/dl_tutorials/blob/master/presentations/Week4-2d%20Deep%20reinforcement%20learning.pptx)
 
